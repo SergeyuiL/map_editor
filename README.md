@@ -1,3 +1,8 @@
+拉取代码
+```shell
+git clone https://github.com/SergeyuiL/map_editor.git
+```
+
 # 1、安装Python3
 version >= 3.10
 
