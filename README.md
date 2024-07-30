@@ -1,6 +1,7 @@
 拉取代码
 ```shell
 git clone https://github.com/SergeyuiL/map_editor.git
+cd map_editor/
 ```
 
 # 1、安装Python3
