@@ -10,7 +10,7 @@ https://www.python.org/downloads/macos/
 
 # 2、配置环境
 ```shell
-pip3 install -r requirements.txt
+pip3 install PyQt5 pyyaml
 ```
 
 # 3、运行脚本
